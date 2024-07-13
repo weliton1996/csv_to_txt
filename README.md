@@ -1,5 +1,5 @@
 ## - LIB TEST
-1. Para testar a lib, navegue até a pasta test:
+1. **Para testar a lib, navegue até a pasta test:**
      ```
      bash
     $ cd test
@@ -11,7 +11,7 @@
     $ test/test_program
 
     ```
-2. Para compilar a lib caso não venha compilada:
+2. **Para compilar a lib caso não venha compilada:**
     ```
     bash
     $ make #compila a lib 
